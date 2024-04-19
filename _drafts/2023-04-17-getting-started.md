@@ -14,8 +14,10 @@ added click to move controller
 
 player usernames show underneath player always face camera
 
+networking works now so thats good.
+
 * networking with real time movement
 ![](uploads/week1/net.webp)
 ## Art
-* binky created some sketched concepts
+* blinky created some sketched concepts
 ![](uploads/week1/concepts.webp)
