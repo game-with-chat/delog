@@ -21,7 +21,7 @@ networking with real time movement
 ![](/devlog/uploads/week1/net.webp)
 
 GH Actions auto builds any new commits to the project so that anyone can download the current build of the game without waiting for an official release 
-https://github.com/game-with-chat/gwc/actions.
+<https://github.com/game-with-chat/gwc/actions>.
 
 ![](/devlog/uploads/week1/gh-actions.png)
 
