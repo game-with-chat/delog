@@ -18,6 +18,11 @@ networking works now so thats good.
 
 * networking with real time movement
 ![](uploads/week1/net.webp)
+
+* GH Actions auto builds any new commits to the project so that anyone can download the current build of the game without waiting for an official release 
+https://github.com/game-with-chat/gwc/actions
+
+![](uploads/week1/gh-actions.png)
 ## Art
 * blinky created some sketched concepts
 ![](uploads/week1/concepts.webp)
