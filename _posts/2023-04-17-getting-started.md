@@ -47,7 +47,7 @@ There has been no progress or discussion about story, tumble suggests having a s
 
 All is still up for discussion and due to change.
 
-## Week 1 thoughst
+## To sum up
 This week has only been a few days but its been a productive week, a few things have been discussed and a working game with networking has been creative, so all in all a good week.
 
 
